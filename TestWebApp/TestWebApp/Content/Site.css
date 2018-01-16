@@ -24,11 +24,11 @@ textarea {
 }
 
 /* Dark Blue Background*/
-.navbar-inverse {
+/*.navbar-inverse {
     background-color: darkblue;
-}
+}*/
 
 /* Dark Magenta Background*/
-/*.navbar-inverse {
+.navbar-inverse {
     background-color: darkmagenta;
-}*/
+}
